@@ -1,0 +1,50 @@
+body {
+  background-color: #eec8c8;
+}
+
+h1 {
+  color: hsl(0, 0%, 0%);
+  text-align: center;
+  font-family: Verdana;
+  font-size: 36px;
+}
+
+h2 {
+    color: hsl(0, 0%, 0%);
+    text-align: center;
+    font-family: Verdana;
+    font-size: 32px;
+  }
+
+  h3 {
+    color: hsl(0, 0%, 0%);
+    text-align: center;
+    font-family: Verdana;
+    font-size: 24px;
+  }
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+li {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  figcaption {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  iframe {
+    display: block;
+    margin: 0 auto;
+  }
+
+  audio {
+    display: block;
+    margin: 0 auto;
+  }
